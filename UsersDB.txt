@@ -1,0 +1,8 @@
+Francesca Andreozzi,FRANFRAN@GOCOMPARE.COM,FraAnd123
+Janis Joplin,janis.joplin@gocompare.com,JanJop222
+Carlos Santana,carlos.santana@gocompare.com,CarlosSant999
+Jimmy Page,jimmy.page@gocompare.com,JimPag333
+Robert Plant,robert.plant@gocompare.com,RobbyPlant123
+John Bonam,john.bonam@gocompare.com,JonnyBon444
+Peter Townsand,peter.townsand@gocompare.com,PeteTown888
+Keith Moon,keith.moon@gocompare.com,theMoon123

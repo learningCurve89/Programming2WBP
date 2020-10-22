@@ -1,0 +1,10 @@
+23-4-2020,12.0,2.0,peter.townsand@gocompare.com,BOARDROOM
+12-4-2020,13.0,1.0,keith.moon@gocompare.com,CAR CHIIN
+24-4-2020,12.0,1.0,joplin@gocompare.com,PET SPA
+25-4-2020,12.0,1.0,carlos.santana@gocompare.com,FULL THROTTLE
+23-04-2020,9.0,1.0,john.bonam@gocompare.com,PET SPA
+23-04-2020,10.0,1.0,franfran@gocompare.com,FINANCE HUDDLE
+23-04-2020,13.0,1.0,janis.joplin@gocompare.com,TECH HUDDLE2
+23-04-2020,12.0,1.0,jimmy.page@gocompare.com,FULL THROTTLE
+14-4-2020,9.0,1.0,robert.plant@gocompare.com,VROOM
+23-5-2020,12.0,1.0,franfran@gocompare.com,FINANCE HUDDLE
